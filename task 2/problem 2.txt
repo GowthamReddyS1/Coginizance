@@ -1,0 +1,27 @@
+Problem 2
+
+This program prints Nth fibonacci number.
+
+Function Main
+    DECLARE Integer number   
+    OUTPUT "Enter the value of number: "
+    INPUT number
+    CALL Fibonacci(number)
+END
+Function Fibonacci (Integer number)
+    DECLARE INTEGER Present, Previous, next, i  
+    ASSIGN Present = 1
+    ASSIGN Previous  = 1
+    ASSIGN i=1
+   FOR i=1 to number-1
+        IF i<=1
+        TRUE 
+        ASSIGN Next = 1
+        THEN
+        ASSIGN Next = Present + Previous
+        ASSIGN Present = Previous
+        ASSIGN Previous = Next
+        END IF
+   PRINT RESPONE   Next
+   END
+END
