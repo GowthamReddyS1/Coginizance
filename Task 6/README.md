@@ -1,4 +1,4 @@
-![Buy Bit](https://github.com/GowthamReddyS1/Coginizance/blob/main/Task%203/A.png "Buy Bit")
+![Buy Bit](https://github.com/GowthamReddyS1/Coginizance/blob/main/Task%203/A.png"Buy Bit")
 
 
 ## Theme:-
