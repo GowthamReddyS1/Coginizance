@@ -1,3 +1,5 @@
+# Buy Bit
+
 ![Buy Bit](https://github.com/GowthamReddyS1/Coginizance/blob/main/Task%203/A.png "Buy Bit")
 
 
@@ -17,7 +19,7 @@
 ## Furture Improvments:-
 
 
-* We may include trading and NFT's store in this site for cheap.
+* We may include trading facility and NFT's store in this site for low cost.
 * We may expand Buy Bit for more countries.
 
 
