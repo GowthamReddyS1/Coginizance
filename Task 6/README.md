@@ -17,7 +17,7 @@
 ## Furture Improvments:-
 
 
-* We may include trading and NFT's store in this site for cheap.
+* We may include trading facility and NFT's store in this site for low cost.
 * We may expand Buy Bit for more countries.
 
 
