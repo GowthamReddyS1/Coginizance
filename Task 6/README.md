@@ -3,7 +3,7 @@
 ![Buy Bit](https://github.com/GowthamReddyS1/Coginizance/blob/main/Task%203/A.png "Buy Bit")
 
 
-## __Theme__:-
+## **__Theme__**:-
 
 
 * This is an online store for crypto and bit coins in India.
