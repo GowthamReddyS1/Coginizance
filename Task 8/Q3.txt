@@ -1,0 +1,15 @@
+3)
+a.print(0 * np.nan)
+Result: nan
+
+b.print(np.nan != np.nan)
+Result: Ture
+
+c.print(np.inf > np.nan)
+Result: False
+
+d.print(np.nan - np.nan)
+Result: nan
+
+e.print(0.3 == 3 * 0.1) 
+Result: False
